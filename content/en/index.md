@@ -1,5 +1,5 @@
 ![logo](/logo.svg)
 
-# Titel
+# OpenAtlas Discovery
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+This is a prototype for [OpenAtlas](https://openatlas.eu/){:target="_blank"} projects. Demo data kindly provided by: *The Ethnonym of the Vlachs in the Written Sources and the Toponymy in the Historical Region of Macedonia* (11th-16th Cent.) [More information](http://dpp.oeaw.ac.at/index.php?seite=CaseStudies&amp;submenu=skopje){:target="_blank"},
